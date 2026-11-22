@@ -1,7 +1,7 @@
 # Target, Domain, and Stage: A Three-Axis Framework and Quantitative Synthesis of HDAC and Sirtuin Function in Influenza A Virus Infection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441667.svg)](https://doi.org/10.5281/zenodo.24441667)
 
 This repository contains the curated evidence matrix, reproducible analysis scripts, intermediate outputs, and publication-ready figures supporting the manuscript:
 
